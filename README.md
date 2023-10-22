@@ -1,7 +1,7 @@
 # waeedalrefaaiCS290-W23-HW7--waeed-alrefaai-
 greet
 
- clone <https://github.com/Waeed-Alrefaai/waeedalrefaaiCS290-W23-HW7--waeed-alrefaai-/commit/56f595da9e2379b670921e36f2106495d6cd18ff>
+git clone <https://github.com/Waeed-Alrefaai/waeedalrefaaiCS290-W23-HW7--waeed-alrefaai-/commit/56f595da9e2379b670921e36f2106495d6cd18ff>
 ```
 git add fileA.txt
 ```
@@ -125,7 +125,8 @@ git push origin master
 Enter your GitHub username and password when prompted to complete the push.
 
 
-
+git clone <https://github.com/Waeed-Alrefaai/waeedalrefaaiCS290-W23-HW7--waeed-alrefaai-/commit/56f595da9e2379b670921e36f2106495d6cd18ff>
+```
 
 git checkout master
 
