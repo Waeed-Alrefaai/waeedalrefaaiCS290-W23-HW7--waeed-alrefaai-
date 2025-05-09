@@ -1,7 +1,7 @@
 # waeedalrefaai
 greet
 
-git clone <https://github.com/Waeed-Alrefaai/waeedalrefaaiCS290-W23-HW7--waeed-alrefaai-/commit/56f595da9e2379b670921e36f2106495d6cd18ff>
+git clone <https://github.com/Waeed-Alrefaai/waeedalrefaai/commit/56f595da9e2379b670921e36f2106495d6cd18ff>
 ```
 git add fileA.txt
 ```
